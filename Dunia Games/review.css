@@ -1,0 +1,22 @@
+h2 {
+    color:rgb(146,163,253);
+    text-shadow: 3px 2px 1px black;
+	}
+p
+{
+	background: rgba(25,25,25,80%);
+	font-family: Dishonorable Mention;
+	font-size:20px;
+	color: white;
+	padding:5px;
+}
+.review{
+	background: rgba(25,25,25,80%);
+	font-family: Dishonorable Mention;
+	font-size:20px;
+	color: white;
+}
+strong{
+	color: rgb(83,91,205);
+	text-shadow: 1px 1px 1px #2A3083;
+}

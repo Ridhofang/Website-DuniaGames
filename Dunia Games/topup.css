@@ -1,0 +1,25 @@
+.wrapper{background-image: url(grag.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+	position: fixed;
+	 }
+.wrapper p{background-color:  
+	background-position: center;
+	color: white;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+	width: 200px;}
+
+body{
+	background: radial-gradient(white,grey);
+	color: white;
+	float: center;
+	font-family: times-new-roman;}
+nav{
+	font-family: cooper-black;
+	background-color: grey;
+	height: 20px;
+	width: 900px;
+	text-decoration:none;}
+a{text-decoration: none;}

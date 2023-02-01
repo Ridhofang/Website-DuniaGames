@@ -1,0 +1,24 @@
+.wrapper{background-image: url(alu.jpg);
+	background-size: cover;
+	background-repeat: no-repeat; 
+	position: relative;}
+body{
+	background: radial-gradient(white,grey);
+	color: white;
+	float: center;
+	font-family: times-new-roman;}
+h1 {
+	font-family: Engravers MT;
+	color: white;
+	}
+nav{
+	font-family: cooper-black;
+	background-color: grey;
+	height: 20px;
+	width: 900px;
+}
+a {text-decoration: none;}
+
+	}
+footer{text-align: center;
+color: black;}

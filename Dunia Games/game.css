@@ -1,0 +1,73 @@
+.wrapper{padding: 10px 10px;
+		width: 70%;
+		height: 100%;
+		margin: auto;
+		background-color:rgba(25,25,25,60%);
+		background-size: 100% ;
+		position:relative;
+}
+
+.coverBg{
+	background-image: url(Liliana.jpg);
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+	height:100%;
+	background-size:cover;
+}
+body{
+	text-align: center;
+	font-family: times-new-roman;}
+
+h1 {
+	font-family: Engravers MT;
+	color: #fff;
+	background: rgba(25,25,25,80%);
+	}
+
+.nav-bar
+{
+	display: block;
+	margin-bottom: 15px 0;
+	background:rgb(126,129,161); ;
+	box-shadow: 0 2px 5px 0 rgba(0 ,0 ,0 ,0.3);
+	border-radius: 3px;
+}
+.nav-bar ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.nav-bar li
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block; 
+	position: relative;
+	font-size: 14px;
+	color:rgba(25,25,25);
+}
+
+.nav-bar li a
+{
+	padding: 15px 20px;
+	font-size: 14px;
+	color:rgba(25,25,25);
+	display: inline-block;
+	outline: 0;
+	font-weight: 400;
+}
+
+.nav-bar li:hover a
+{
+	background:rgba(66,71,114);
+	color:#fff ! important;
+}
+
+footer{text-align: center;
+color: black;}
+
